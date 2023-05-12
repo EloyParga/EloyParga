@@ -1,8 +1,8 @@
 ## Hola, mi nombre es Eloy  👋
 
-Soy desarrollador de aplicaciones moviles en android recien salide de formacion con grandes calificaciones en todas las materias.
+Soy desarrollador de aplicaciones moviles en android recien salido de formacion con grandes calificaciones en todas las materias.
 
-Ha dia de hoy solo tengo un proyecto en progreso , el TFG. 
+Ha dia de hoy solo tengo 2 proyecto en progreso , el TFG y una aplicacion para una empresa  
 
 Actualmente estoy buscando trabajo activamente, a la par que me formo dia tras dias en aprender nuevas tecnologias.
 
