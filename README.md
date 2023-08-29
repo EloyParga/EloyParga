@@ -1,10 +1,8 @@
 ## Hola, mi nombre es Eloy  👋
 
-Soy desarrollador de aplicaciones moviles en android recien salido de formacion con grandes calificaciones en todas las materias.
+Soy Frented Developer, expecialista en UI / UX, he trabajado en varios proyectos personales y profesionales.
 
-Ha dia de hoy solo tengo 2 proyecto en progreso , el TFG y una aplicacion para una empresa  
-
-Actualmente estoy buscando trabajo activamente, a la par que me formo dia tras dias en aprender nuevas tecnologias.
+Trabajo como desarrollador fron web y ovil para una empresa del sector de la domotica y mi proposito es llegar a ser programador web.
 
 
 ## Tecnologías:
