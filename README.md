@@ -1,8 +1,10 @@
 ## Hola, mi nombre es Eloy  👋
 
-Soy Frented Developer, expecialista en UI / UX, he trabajado en varios proyectos personales y profesionales.
+Soy Front-end Developer, expecialista en UI / UX, he trabajado en varios proyectos personales y profesionales.
 
-Trabajo como desarrollador fron web y ovil para una empresa del sector de la domotica y mi proposito es llegar a ser programador web.
+Trabajo como desarrollador web y Movil para una empresa del sector de la domotica y mi proposito es llegar a ser expecialista en maquetacion web.
+
+
 
 
 ## Tecnologías:
