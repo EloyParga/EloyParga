@@ -1,4 +1,7 @@
-## Hola, mi nombre es Eloy  👋
+<h1 align="center"><b>HOLA , mi nombre es Eloy </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+    <img src="https://github.com/EloyParga/EloyParga/assets/99491519/f043996a-ad49-460a-8e17-bf8aea85568c"  alt="Texto alternativo" width="900" height="200">
+</div>
 
 Soy Front-end Developer, expecialista en UI / UX, he trabajado en varios proyectos personales y profesionales.
 
