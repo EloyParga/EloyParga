@@ -3,6 +3,9 @@
     <img src="https://github.com/EloyParga/EloyParga/assets/99491519/f043996a-ad49-460a-8e17-bf8aea85568c"  alt="Texto alternativo" width="900" height="200">
 </div>
 
+[![GitHub followers](https://img.shields.io/github/followers/eloyparga?style=social)](https://github.com/EloyParga)
+
+
 Soy Front-end Developer, expecialista en UI / UX, he trabajado en varios proyectos personales y profesionales.
 
 Trabajo como desarrollador web y Movil para una empresa del sector de la domotica y mi proposito es llegar a ser expecialista en maquetacion web.
