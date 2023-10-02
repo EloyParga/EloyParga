@@ -43,7 +43,7 @@
 
 <br>
 
-- **Movile Development**:
+- **Mobile Development**:
 
    ![Java](https://img.shields.io/badge/JAVA%20-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white)
    ![SQL](https://img.shields.io/badge/SQL%20-%231572B6.svg?style=for-the-badge&logo=mysql&logoColor=white)
